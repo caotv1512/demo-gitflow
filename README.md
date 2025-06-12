@@ -29,3 +29,5 @@
 - git commit -m "Your comment" : Đẩy các file thay đổi vào store local sẵn sàng cho push code lên server và đồng thời thêm comment
 - git push origin your_branch: Đẩy code từ local vào nhánh your_branch trên server
 - git checkout -b branch_name : Tạo một nhánh mới có tên là branch_name đồng thời di chuyển sang nhánh đó
+
+Khở tạo repository => clone code về máy local => Thêm file mới và thay đổi file cũ => commit code => push code lên nhánh mới
